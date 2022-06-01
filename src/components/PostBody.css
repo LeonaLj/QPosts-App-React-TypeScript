@@ -1,0 +1,25 @@
+.post-body h1{
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+
+.post-body h6{
+    font-weight: 200;
+}
+
+.post-body span{
+    color: #7FB414;
+    font-weight: bold;
+}
+
+.post-body p{
+    font-size: 25px;
+}
+
+.post-body p::first-letter{
+    text-transform: uppercase;
+}
+
+.post-body-comments {
+    margin-top: 100px;
+}

@@ -1,0 +1,27 @@
+.search-div {
+    padding: 20px 0;
+  }
+  
+.input-field {
+    padding-top: 10px;
+  }
+  
+.input:focus {
+    box-shadow: none!important;
+    border-color: #7FB414!important;
+  }
+  
+.input::placeholder {
+    color: #7FB414!important;
+    font-size: 16px;
+  }
+  
+.input:focus::placeholder {
+    color: transparent!important;
+  }
+  
+.found-post-body {
+    max-height: 150px;
+    overflow-y: auto;
+    padding-top: 10px;
+  }

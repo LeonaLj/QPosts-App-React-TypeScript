@@ -1,0 +1,18 @@
+.comment-list {
+    margin: 15px 0;
+  }
+  
+  .comment-list h6{
+    color: #525050;
+    text-transform: capitalize;
+  }
+  
+  .comment-list p{
+    margin: 0;
+    color: lightgray;
+    font-size: 12px;
+  }
+  
+  .comment-list span{
+    color: #7FB414;
+  }

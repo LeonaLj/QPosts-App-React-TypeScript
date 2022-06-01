@@ -1,0 +1,25 @@
+.post-preview {
+    margin: 30px 0;
+    padding-left: 20px;
+    border-left: 2px solid #7FB414;
+    border-bottom: 1px solid lightgray;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.1);
+}
+  
+.post-preview:hover {
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.3);
+}
+  
+.post-link {
+    text-decoration: none;
+}
+  
+.post-link h3{
+    color: #525050;
+    text-transform: capitalize;
+}
+  
+.post-link p {
+    font-size: 15px;
+    color: lightgray;
+}

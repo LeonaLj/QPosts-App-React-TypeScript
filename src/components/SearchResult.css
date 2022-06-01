@@ -1,0 +1,14 @@
+.found-post {
+    border-left: 1px solid #7FB414;
+  }
+  
+  .found-post:hover {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 2px 4px;;
+  }
+  
+  .found-post p{
+    color: #525050;
+    font-style: italic;
+    text-transform: capitalize;
+    padding-left: 10px;
+  }

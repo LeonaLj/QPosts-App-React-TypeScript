@@ -1,0 +1,14 @@
+.brand {
+    color: #525050!important;
+  }
+  .brand span {
+    color:#7FB414;
+  }
+  
+  .nav-link {
+    color: #525050!important;
+  }
+  
+  .nav-link:hover {
+    color:#7FB414!important;
+  }
